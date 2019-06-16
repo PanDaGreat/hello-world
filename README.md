@@ -1,7 +1,7 @@
 # hello-world
 Just learning github
 
-Hi Humans!
+Yo Humans!
 
 This is me learning GitHub. Wish me luck. 
 
